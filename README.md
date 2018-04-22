@@ -7,5 +7,4 @@ This IS THE combo-strike variation scrabble bot.
 
 ```
 python ps4b.py [number_of_char]
-
 ``` 
